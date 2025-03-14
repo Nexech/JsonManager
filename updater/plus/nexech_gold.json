@@ -1,0 +1,34 @@
+{
+    "name": "Nexech Gold",
+    "isPlayStore": true,
+    "channel": {
+        "debug": {
+            "versionCodeMinApi31": 340002075,
+            "versionCodeMinApi28": 340002075,
+            "changelog": "Android Emulator application debug testing.",
+            "isOptional": false,
+            "downloadUrl": ""
+        },
+        "release": {
+            "versionCodeMinApi31": 340002075,
+            "versionCodeMinApi28": 340002075,
+            "changelog": "Hello to the brand-new update!\n* Added support for Android 16 OS.\n* Updated the user interface of the login page.\n* Fixed some bugs.",
+            "isOptional": false,
+            "downloadUrl": ""
+        },
+        "beta": {
+            "versionCodeMinApi31": 340002075,
+            "versionCodeMinApi28": 340002075,
+            "changelog": "Hello to the brand-new update!\n* Added support for Android 16 OS.\n* Updated the user interface of the login page.\n* Fixed some bugs.",
+            "isOptional": false,
+            "downloadUrl": ""
+        },
+        "dev": {
+            "versionCodeMinApi31": 340002075,
+            "versionCodeMinApi28": 340002075,
+            "changelog": "Hello to the brand-new update!\n* Added support for Android 16 OS.\n* Updated the user interface of the login page.\n* Fixed some bugs.",
+            "isOptional": false,
+            "downloadUrl": ""
+        }
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "name": "Barcode Scanner Plus",
+    "isPlayStore": true,
+    "channel": {
+        "debug": {
+            "versionCodeMinApi31": 340002050,
+            "versionCodeMinApi28": 340002050,
+            "version_code": "340002050",
+            "changelog": "Added support for Android 16 OS.",
+            "isOptional": false,
+            "downloadUrl": ""
+        },
+        "release": {
+            "versionCodeMinApi31": 340002050,
+            "versionCodeMinApi28": 340002050,
+            "version_code": "340002050",
+            "changelog": "Added support for Android 16 OS.",
+            "isOptional": false,
+            "downloadUrl": ""
+        }
+    }
+}

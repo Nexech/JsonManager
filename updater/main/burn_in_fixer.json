@@ -1,0 +1,34 @@
+{
+    "name": "Burn-in Fixer",
+    "isPlayStore": true,
+    "channel": {
+        "debug": {
+            "versionCodeMinApi31": 340002075,
+            "versionCodeMinApi28": 340002075,
+            "changelog": "Android Emulator application debug testing.",
+            "isOptional": false,
+            "downloadUrl": ""
+        },
+        "release": {
+            "versionCodeMinApi31": 340002075,
+            "versionCodeMinApi28": 340002075,
+            "changelog": "Hello to the brand-new update!\n* Added support for Android 16 OS.\n* Added 6-month and annual subscription plans to the subscriptions page.\n* Introduced a new feature on the subscriptions page that removes ads for 24 hours by watching an ad.\n* Optimized performance for low-memory devices.\n* Fixed some bugs.\n* Added new bugs we haven't discovered yet :)",
+            "isOptional": false,
+            "downloadUrl": ""
+        },
+        "beta": {
+            "versionCodeMinApi31": 340002075,
+            "versionCodeMinApi28": 340002075,
+            "changelog": "Hello to the brand-new update!\n* Added support for Android 16 OS.\n* Added 6-month and annual subscription plans to the subscriptions page.\n* Introduced a new feature on the subscriptions page that removes ads for 24 hours by watching an ad.\n* Optimized performance for low-memory devices.\n* Fixed some bugs.\n* Added new bugs we haven't discovered yet :)",
+            "isOptional": false,
+            "downloadUrl": ""
+        },
+        "dev": {
+            "versionCodeMinApi31": 340002075,
+            "versionCodeMinApi28": 340002075,
+            "changelog": "Hello to the brand-new update!\n* Added support for Android 16 OS.\n* Added 6-month and annual subscription plans to the subscriptions page.\n* Introduced a new feature on the subscriptions page that removes ads for 24 hours by watching an ad.\n* Optimized performance for low-memory devices.\n* Fixed some bugs.\n* Added new bugs we haven't discovered yet :)",
+            "isOptional": false,
+            "downloadUrl": ""
+        }
+    }
+}
