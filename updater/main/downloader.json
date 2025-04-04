@@ -3,31 +3,31 @@
     "isPlayStore": true,
     "channel": {
         "debug": {
-            "versionCodeMinApi31": 340002075,
-            "versionCodeMinApi28": 340002075,
+            "versionCodeMinApi31": 340002081,
+            "versionCodeMinApi28": 340002081,
             "changelog": "Android Emulator application debug testing.",
-            "isOptional": false,
+            "isOptional": true,
             "downloadUrl": ""
         },
         "release": {
-            "versionCodeMinApi31": 340002075,
-            "versionCodeMinApi28": 340002075,
-            "changelog": "Hello to the brand-new update!\n* Added support for Android 16 OS.\n* Added 6-month and annual subscription plans to the subscriptions page.\n* Optimized performance for low-memory devices.\n* Fixed some bugs.\n* Added new bugs we haven't discovered yet :)",
-            "isOptional": false,
+            "versionCodeMinApi31": 340002081,
+            "versionCodeMinApi28": 340002081,
+            "changelog": "In this week's update:\n* Library updates have been made.\n* Application size has been optimized.",
+            "isOptional": true,
             "downloadUrl": ""
         },
         "beta": {
-            "versionCodeMinApi31": 340002075,
-            "versionCodeMinApi28": 340002075,
-            "changelog": "Hello to the brand-new update!\n* Added support for Android 16 OS.\n* Added 6-month and annual subscription plans to the subscriptions page.\n* Optimized performance for low-memory devices.\n* Fixed some bugs.\n* Added new bugs we haven't discovered yet :)",
-            "isOptional": false,
+            "versionCodeMinApi31": 340002081,
+            "versionCodeMinApi28": 340002081,
+            "changelog": "In this week's update:\n* Library updates have been made.\n* Application size has been optimized.",
+            "isOptional": true,
             "downloadUrl": ""
         },
         "dev": {
-            "versionCodeMinApi31": 340002075,
-            "versionCodeMinApi28": 340002075,
-            "changelog": "Hello to the brand-new update!\n* Added support for Android 16 OS.\n* Added 6-month and annual subscription plans to the subscriptions page.\n* Optimized performance for low-memory devices.\n* Fixed some bugs.\n* Added new bugs we haven't discovered yet :)",
-            "isOptional": false,
+            "versionCodeMinApi31": 340002081,
+            "versionCodeMinApi28": 340002081,
+            "changelog": "In this week's update:\n* Library updates have been made.\n* Application size has been optimized.",
+            "isOptional": true,
             "downloadUrl": ""
         }
     }

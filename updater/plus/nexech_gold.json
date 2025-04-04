@@ -3,31 +3,31 @@
     "isPlayStore": true,
     "channel": {
         "debug": {
-            "versionCodeMinApi31": 340002075,
-            "versionCodeMinApi28": 340002075,
+            "versionCodeMinApi31": 340002080,
+            "versionCodeMinApi28": 340002080,
             "changelog": "Android Emulator application debug testing.",
-            "isOptional": false,
+            "isOptional": true,
             "downloadUrl": ""
         },
         "release": {
-            "versionCodeMinApi31": 340002075,
-            "versionCodeMinApi28": 340002075,
-            "changelog": "Hello to the brand-new update!\n* Added support for Android 16 OS.\n* Updated the user interface of the login page.\n* Fixed some bugs.",
-            "isOptional": false,
+            "versionCodeMinApi31": 340002080,
+            "versionCodeMinApi28": 340002080,
+            "changelog": "In this week's update:\n* Library updates have been made.\n* Application size has been optimized.",
+            "isOptional": true,
             "downloadUrl": ""
         },
         "beta": {
-            "versionCodeMinApi31": 340002075,
-            "versionCodeMinApi28": 340002075,
-            "changelog": "Hello to the brand-new update!\n* Added support for Android 16 OS.\n* Updated the user interface of the login page.\n* Fixed some bugs.",
-            "isOptional": false,
+            "versionCodeMinApi31": 340002080,
+            "versionCodeMinApi28": 340002080,
+            "changelog": "In this week's update:\n* Library updates have been made.\n* Application size has been optimized.",
+            "isOptional": true,
             "downloadUrl": ""
         },
         "dev": {
-            "versionCodeMinApi31": 340002075,
-            "versionCodeMinApi28": 340002075,
-            "changelog": "Hello to the brand-new update!\n* Added support for Android 16 OS.\n* Updated the user interface of the login page.\n* Fixed some bugs.",
-            "isOptional": false,
+            "versionCodeMinApi31": 340002080,
+            "versionCodeMinApi28": 340002080,
+            "changelog": "In this week's update:\n* Library updates have been made.\n* Application size has been optimized.",
+            "isOptional": true,
             "downloadUrl": ""
         }
     }
