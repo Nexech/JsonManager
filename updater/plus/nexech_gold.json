@@ -3,30 +3,30 @@
     "isPlayStore": true,
     "channel": {
         "debug": {
-            "versionCodeMinApi31": 340002080,
-            "versionCodeMinApi28": 340002080,
+            "versionCodeMinApi31": 340002090,
+            "versionCodeMinApi28": 340002090,
             "changelog": "Android Emulator application debug testing.",
             "isOptional": true,
             "downloadUrl": ""
         },
         "release": {
-            "versionCodeMinApi31": 340002080,
-            "versionCodeMinApi28": 340002080,
-            "changelog": "In this week's update:\n* Library updates have been made.\n* Application size has been optimized.",
+            "versionCodeMinApi31": 340002090,
+            "versionCodeMinApi28": 340002090,
+            "changelog": "Here's what's new this week:\nThe app's navigation interface has been updated.",
             "isOptional": true,
             "downloadUrl": ""
         },
         "beta": {
-            "versionCodeMinApi31": 340002080,
-            "versionCodeMinApi28": 340002080,
-            "changelog": "In this week's update:\n* Library updates have been made.\n* Application size has been optimized.",
+            "versionCodeMinApi31": 340002090,
+            "versionCodeMinApi28": 340002090,
+            "changelog": "Here's what's new this week:\nThe app's navigation interface has been updated.",
             "isOptional": true,
             "downloadUrl": ""
         },
         "dev": {
-            "versionCodeMinApi31": 340002080,
-            "versionCodeMinApi28": 340002080,
-            "changelog": "In this week's update:\n* Library updates have been made.\n* Application size has been optimized.",
+            "versionCodeMinApi31": 340002090,
+            "versionCodeMinApi28": 340002090,
+            "changelog": "Here's what's new this week:\nThe app's navigation interface has been updated.",
             "isOptional": true,
             "downloadUrl": ""
         }

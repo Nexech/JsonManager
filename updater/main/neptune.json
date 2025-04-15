@@ -3,30 +3,30 @@
     "isPlayStore": true,
     "channel": {
         "debug": {
-            "versionCodeMinApi31": 340002081,
-            "versionCodeMinApi28": 340002081,
+            "versionCodeMinApi31": 340002090,
+            "versionCodeMinApi28": 340002090,
             "changelog": "Android Emulator application debug testing.",
             "isOptional": true,
             "downloadUrl": ""
         },
         "release": {
-            "versionCodeMinApi31": 340002081,
-            "versionCodeMinApi28": 340002081,
-            "changelog": "In this week's update:\n* A downloads screen has been added to the browser menu.\n* An update has been made for the mobile version user experience.\n* Library updates have been made.\n* Application size has been optimized.",
+            "versionCodeMinApi31": 340002090,
+            "versionCodeMinApi28": 340002090,
+            "changelog": "Here's what's new this week:\n* The ad blocker has been accelerated and memory usage optimized. It's no longer in Beta.\n* A Tracker blocker (Beta) has been added to prevent tracking scripts on websites. It needs to be enabled from the settings.\n* The issue of certain site icons not displaying on the home screen shortcuts, bookmarks, and history pages has been fixed.\n* The design of the subscriptions page has been updated, and a lifetime license tab has been added.",
             "isOptional": true,
             "downloadUrl": ""
         },
         "beta": {
-            "versionCodeMinApi31": 340002081,
-            "versionCodeMinApi28": 340002081,
-            "changelog": "In this week's update:\n* A downloads screen has been added to the browser menu.\n* An update has been made for the mobile version user experience.\n* Library updates have been made.\n* Application size has been optimized.",
+            "versionCodeMinApi31": 340002090,
+            "versionCodeMinApi28": 340002090,
+            "changelog": "Here's what's new this week:\n* The ad blocker has been accelerated and memory usage optimized. It's no longer in Beta.\n* A Tracker blocker (Beta) has been added to prevent tracking scripts on websites. It needs to be enabled from the settings.\n* The issue of certain site icons not displaying on the home screen shortcuts, bookmarks, and history pages has been fixed.\n* The design of the subscriptions page has been updated, and a lifetime license tab has been added.",
             "isOptional": true,
             "downloadUrl": ""
         },
         "dev": {
-            "versionCodeMinApi31": 340002081,
-            "versionCodeMinApi28": 340002081,
-            "changelog": "In this week's update:\n* A downloads screen has been added to the browser menu.\n* An update has been made for the mobile version user experience.\n* Library updates have been made.\n* Application size has been optimized.",
+            "versionCodeMinApi31": 340002090,
+            "versionCodeMinApi28": 340002090,
+            "changelog": "Here's what's new this week:\n* The ad blocker has been accelerated and memory usage optimized. It's no longer in Beta.\n* A Tracker blocker (Beta) has been added to prevent tracking scripts on websites. It needs to be enabled from the settings.\n* The issue of certain site icons not displaying on the home screen shortcuts, bookmarks, and history pages has been fixed.\n* The design of the subscriptions page has been updated, and a lifetime license tab has been added.",
             "isOptional": true,
             "downloadUrl": ""
         }
