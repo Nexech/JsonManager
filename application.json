@@ -14,6 +14,7 @@
     "disclaimerUrl": "https://nexech.com/disclaimer-mobile",
     "disclaimerUrlSecond": "https://legal.nexech.com/disclaimer",
     "offerProbability": 0,
+    "labsEnabled": false,
     "mainUpdateUrl": "https://raw.githubusercontent.com/Nexech/JsonManager/main/updater/main/",
     "plusUpdateUrl": "https://raw.githubusercontent.com/Nexech/JsonManager/main/updater/plus/",
     "chatPhoneNumber": "+90 850 303 7682",

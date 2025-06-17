@@ -3,30 +3,30 @@
     "isPlayStore": true,
     "channel": {
         "debug": {
-            "versionCodeMinApi31": 340002090,
-            "versionCodeMinApi28": 340002090,
+            "versionCodeMinApi31": 340002165,
+            "versionCodeMinApi28": 340002165,
             "changelog": "Android Emulator application debug testing.",
             "isOptional": true,
             "downloadUrl": ""
         },
         "release": {
-            "versionCodeMinApi31": 340002090,
-            "versionCodeMinApi28": 340002090,
-            "changelog": "Here's what's new this week:\n* A Cache Cleaner feature has been added to the Storage page to remove unnecessary temporary files. (Android 11 and above)\n* The design of the subscriptions page has been updated, and a lifetime license tab has been added.",
+            "versionCodeMinApi31": 340002165,
+            "versionCodeMinApi28": 340002165,
+            "changelog": "The problem of Plus version downgrading to Free version on the subscriptions page has been fixed.\n\n11.0.0 version updates are coming soon!\nThis update, which includes important improvements and fixes, is currently available in the beta channel.",
             "isOptional": true,
             "downloadUrl": ""
         },
         "beta": {
-            "versionCodeMinApi31": 340002090,
-            "versionCodeMinApi28": 340002090,
-            "changelog": "Here's what's new this week:\n* A Cache Cleaner feature has been added to the Storage page to remove unnecessary temporary files. (Android 11 and above)\n* The design of the subscriptions page has been updated, and a lifetime license tab has been added.",
+            "versionCodeMinApi31": 340002165,
+            "versionCodeMinApi28": 340002165,
+            "changelog": "The problem of Plus version downgrading to Free version on the subscriptions page has been fixed.\n\n11.0.0 version updates are coming soon!\nThis update, which includes important improvements and fixes, is currently available in the beta channel.",
             "isOptional": true,
             "downloadUrl": ""
         },
         "dev": {
-            "versionCodeMinApi31": 340002090,
-            "versionCodeMinApi28": 340002090,
-            "changelog": "Here's what's new this week:\n* A Cache Cleaner feature has been added to the Storage page to remove unnecessary temporary files. (Android 11 and above)\n* The design of the subscriptions page has been updated, and a lifetime license tab has been added.",
+            "versionCodeMinApi31": 340002165,
+            "versionCodeMinApi28": 340002165,
+            "changelog": "The problem of Plus version downgrading to Free version on the subscriptions page has been fixed.\n\n11.0.0 version updates are coming soon!\nThis update, which includes important improvements and fixes, is currently available in the beta channel.",
             "isOptional": true,
             "downloadUrl": ""
         }
