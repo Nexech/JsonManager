@@ -3,30 +3,30 @@
     "isPlayStore": true,
     "channel": {
         "debug": {
-            "versionCodeMinApi31": 340002165,
-            "versionCodeMinApi28": 340002165,
+            "versionCodeMinApi31": 340003000,
+            "versionCodeMinApi28": 340003000,
             "changelog": "Android Emulator application debug testing.",
             "isOptional": false,
             "downloadUrl": ""
         },
         "release": {
-            "versionCodeMinApi31": 340002165,
-            "versionCodeMinApi28": 340002165,
-            "changelog": "The problem of Plus version downgrading to Free version on the subscriptions page has been fixed.\n\n11.0.0 version updates are coming soon!\nThis update, which includes important improvements and fixes, is currently available in the beta channel.",
+            "versionCodeMinApi31": 340003000,
+            "versionCodeMinApi28": 340003000,
+            "changelog": "Hello to the 11.0.0 Update!\n✦ Refined M3 Expressive design update\n✦ Improved one-handed experience for mobile devices\n✦ Added multi-tab support\n✦ Search suggestions and search history now supported\n✦ Added option to force all URLs to use HTTPS (Can be toggled from settings)\n✦ Updated built-in web engine\n✦ Fixed issues on the Subscriptions page (data reset is recommended)\n✦ Various bug fixes and performance improvements across the app",
             "isOptional": false,
             "downloadUrl": ""
         },
         "beta": {
-            "versionCodeMinApi31": 340002165,
-            "versionCodeMinApi28": 340002165,
-            "changelog": "The problem of Plus version downgrading to Free version on the subscriptions page has been fixed.\n\n11.0.0 version updates are coming soon!\nThis update, which includes important improvements and fixes, is currently available in the beta channel.",
+            "versionCodeMinApi31": 340003000,
+            "versionCodeMinApi28": 340003000,
+            "changelog": "Hello to the 11.0.0 Update!\n✦ Refined M3 Expressive design update\n✦ Improved one-handed experience for mobile devices\n✦ Added multi-tab support\n✦ Search suggestions and search history now supported\n✦ Added option to force all URLs to use HTTPS (Can be toggled from settings)\n✦ Updated built-in web engine\n✦ Fixed issues on the Subscriptions page (data reset is recommended)\n✦ Various bug fixes and performance improvements across the app",
             "isOptional": false,
             "downloadUrl": ""
         },
         "dev": {
-            "versionCodeMinApi31": 340002165,
-            "versionCodeMinApi28": 340002165,
-            "changelog": "The problem of Plus version downgrading to Free version on the subscriptions page has been fixed.\n\n11.0.0 version updates are coming soon!\nThis update, which includes important improvements and fixes, is currently available in the beta channel.",
+            "versionCodeMinApi31": 340003000,
+            "versionCodeMinApi28": 340003000,
+            "changelog": "Hello to the 11.0.0 Update!\n✦ Refined M3 Expressive design update\n✦ Improved one-handed experience for mobile devices\n✦ Added multi-tab support\n✦ Search suggestions and search history now supported\n✦ Added option to force all URLs to use HTTPS (Can be toggled from settings)\n✦ Updated built-in web engine\n✦ Fixed issues on the Subscriptions page (data reset is recommended)\n✦ Various bug fixes and performance improvements across the app",
             "isOptional": false,
             "downloadUrl": ""
         }
