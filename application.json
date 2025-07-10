@@ -13,7 +13,7 @@
     "disclaimerVisible": true,
     "disclaimerUrl": "https://nexech.com/disclaimer-mobile",
     "disclaimerUrlSecond": "https://legal.nexech.com/disclaimer",
-    "offerProbability": 100,
+    "offerProbability": 0,
     "labsEnabled": true,
     "mainUpdateUrl": "https://raw.githubusercontent.com/Nexech/JsonManager/main/updater/main/",
     "plusUpdateUrl": "https://raw.githubusercontent.com/Nexech/JsonManager/main/updater/plus/",
