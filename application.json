@@ -18,7 +18,7 @@
     "mainUpdateUrl": "https://raw.githubusercontent.com/Nexech/JsonManager/main/updater/main/",
     "plusUpdateUrl": "https://raw.githubusercontent.com/Nexech/JsonManager/main/updater/plus/",
     "chatPhoneNumber": "+90 850 303 7682",
-    "whatsappLivechat": "true",
+    "whatsappLivechat": true,
     "whatsappVisible": true,
     "whatsappUrl": "https://wa.me/+908503037682",
     "signalVisible": false,
